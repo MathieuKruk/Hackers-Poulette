@@ -10,10 +10,10 @@
 
 <ul>
   <li>Inputs that will receive data from the user: Firstname, Lastname, Gender, Country-list and one textarea with 3 possible subjects.</li><br>
-  <li>Dev has to process the received answer (sanitize, validate, answer the user).</li><br>
   <li>Semantical and accessible HTML.</li><br>
-  <li>Display a readable visual error if empty or not valid inputs.</li><br>
+  <li>A redable visual error if empty or invalid input.</li>
   <li>The form has to be sanitised and validated (server side).</li>
+  <li>An implemented anti spam technique called HoneyPot.</li>
 </ul>
 
 <br>
@@ -24,8 +24,8 @@
 
 <ul>
     <li>If an answer validate, respond by email to a given address</li><br>
-    <li>implement anti spam the technique of honeypot.</li><br>
-    <li>work on a good and clear user experience.</li><br>
+    <li>Implement anti spam the technique of honeypot.</li><br>
+    <li>Work on a good and clear user experience.</li><br>
 </ul>
 
 <br>
