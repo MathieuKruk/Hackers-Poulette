@@ -115,14 +115,14 @@ function sanitizeEmail($field){
 				<div class="firstname col-md-6 col-12">
 					<!-- 💬 Firstname -->
 					<label for="formFirstname">Firstname:</label>
-					<input  class="form-control" type="text" size="20" name="firstname" id="formFirstname" alt="Your firstname input"  placeholder="Your Firstname" value=<?php echo "$firstname"?> >
+					<input  class="form-control shadow p-1" type="text" size="20" name="firstname" id="formFirstname" alt="Your firstname input"  placeholder="Your Firstname" value=<?php echo "$firstname"?> >
 					<span class="error"><?php echo $firstname_err;?></span>
 				</div>
 
 				<div class="lastname col-md-6 col-12">
 					<!-- 💬 Lastname -->
 					<label for="formLastname">Lastname:</label>
-					<input  class="form-control" type="text" size="20" name="lastname" id="formLastname" value="<?php echo $lastname ?>" placeholder="Your Lastname"   alt="Your lastname input"/>
+					<input  class="form-control shadow p-1" type="text" size="20" name="lastname" id="formLastname" value="<?php echo $lastname ?>" placeholder="Your Lastname"   alt="Your lastname input"/>
 					<span class="error"><?php echo $lastname_err;?></span>
 				</div>
 			</div>
@@ -150,7 +150,7 @@ function sanitizeEmail($field){
 				<div class="email col-md-6 col-12">
 					<!-- 💬 Email -->
 					<label for="formEmail">E-mail:</label>
-					<input  class="form-control" type="text" name="email" id="formEmail" placeholder="email@example.com" value="<?php echo $email ?>"   alt="Your email input"/>
+					<input  class="form-control shadow p-1" type="text" name="email" id="formEmail" placeholder="email@example.com" value="<?php echo $email ?>"   alt="Your email input"/>
 					<span class="error"><?php echo $email_err;?></span>
 				</div>
 
@@ -158,7 +158,7 @@ function sanitizeEmail($field){
 					<!-- ✳️ Country -->
 					<fieldset>
 						<label>Country:</label>
-							<select name="countries" class="form-control">
+							<select name="countries" class="form-control shadow p-1">
 								<?php
 									include 'countries.php';
 								?>
@@ -174,7 +174,7 @@ function sanitizeEmail($field){
 					<!-- ✳️ Subject selection -->
 						<fieldset >
 							<label>Select your subject:</label>
-								<select name="subjects" class="form-control">
+								<select name="subjects" class="form-control shadow p-1">
 									<?php
 									$subjects = array('OTR'=>'Others','HLP'=>'Help','CPL'=>'Complain');
 										foreach ($subjects as $key => $element) {
@@ -197,9 +197,9 @@ function sanitizeEmail($field){
 				</div>
 
 				<div class="message col-md-6 col-12 d-flex justify-content-center">
-					<div class="textareaBox">
+					<div class="textareaBox ">
 						<!-- 💬 Message Box area -->
-						<textarea  class="form-control" placeholder="Write your text here..." name="message" cols="28" rows="6" id="formMessage"   alt="Enter your text here"><?php if (isset($message))echo "$message";?></textarea>
+						<textarea  class="form-control shadow p-1" placeholder="Write your text here..." name="message" cols="28" rows="6" id="formMessage"   alt="Enter your text here"><?php if (isset($message))echo "$message";?></textarea>
 						<span class="error"><?php if (isset($message_err))echo "$message_err";?></span>
 					</div>
 				</div>
