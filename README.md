@@ -33,6 +33,12 @@
 <hr>
 <br>
 
+<h2>⬛️ Debut Mockup:</h2>
+
+<p align="center">
+<img src="" height="50%" width="70%">
+</p>
+
 <h2>⬛️ Assets links list:</h2>
 
 <ul>
