@@ -227,12 +227,11 @@ function sanitizeEmail($field){
 		// 😁 Because <BR> is life 😁
 		echo "###############################################################";
 		echo "<br>";
-		echo "<h2>Your Given details:</h2>";
+		echo "<h2>The retrieved data:</h2>";
 		echo "<br>";
 		echo "#############################";
 		echo "<br>";
 		echo "<br>";
-		echo "💩💩💩";
 		print_r($_POST);
 		echo "<br>";
 		echo "<br>";
