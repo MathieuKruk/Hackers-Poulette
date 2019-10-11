@@ -75,7 +75,7 @@ function forceReset() {
 } 
 
 function sanitizeNames($field){
-	$field = ctype_alpha(filter_var(trim($field), FILTER_SANITIZE_STRING));
+	$field = filter_var(trim($field), FILTER_SANITIZE_STRING);
     
     if(filter_var($field, FILTER_VALIDATE_REGEXP, array("options"=>array("regexp"=>"/^[a-zA-Z\s]+$/")))){
         return $field;
