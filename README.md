@@ -55,6 +55,6 @@
 <img src="https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4" height="50%" width="70%">
 </p>
 
-<p align="center">
+
 <img src="http://gifb.in/FGbV">
-</p>
+
