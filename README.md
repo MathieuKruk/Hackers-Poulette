@@ -48,7 +48,6 @@
 
 <ul>
     <li>LOGO: https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4</li><br>
-    <li>BACKGROUND-IMAGE: https://images.wallpaperscraft.com/image/paint_liquid_bw_131093_3840x2160.jpg</li><br>
     <li>TITLE-BACKGROUND-IMAGE: https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png</li><br>
 </ul>
 
