@@ -1,6 +1,6 @@
 # Hackers Poulette:
 
-<p align="center">= Exercise about creating a complete PHP Form to allow users to contact their support team =</p>
+<p align="center">= 📩 Exercise about creating a complete PHP Form to allow users to contact their support team 📩 =</p>
 
 <h2>@)- The form must contain:</h2>
 <ul>
