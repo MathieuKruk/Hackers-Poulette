@@ -36,7 +36,7 @@
 <h2>⬛️ Debut Mockup:</h2>
 
 <p align="center">
-<img src="assets/img/HPmockup.jpg" height="50%" width="70%">
+<img src="assets/img/HPmockup.jpg" height="50%" width="30%">
 </p>
 
 <h2>⬛️ Assets links list:</h2>
@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/Rh4UZDcPrxF5vhKfaD/giphy.gif" height="50%" width="70%">
+<img src="https://media.giphy.com/media/Rh4UZDcPrxF5vhKfaD/giphy.gif" height="25%" width="25%">
 </p>
