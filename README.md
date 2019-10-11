@@ -1,4 +1,5 @@
 # 📄 Hackers Poulette
+<br>
 
 <p align="center">◽️ Exercise about creating a complete PHP Form to allow users to contact their support team  ◽️</p>
 
@@ -11,8 +12,8 @@
 <ul>
   <li>Inputs that will receive data from the user: Firstname, Lastname, Gender, Country-list and one textarea with 3 possible subjects.</li><br>
   <li>Semantical and accessible HTML.</li><br>
-  <li>A redable visual error if empty or invalid input.</li>
-  <li>The form has to be sanitised and validated (server side).</li>
+  <li>A redable visual error if empty or invalid input.</li><br>
+  <li>The form has to be sanitised and validated (server side).</li><br>
   <li>An implemented anti spam technique called HoneyPot.</li>
 </ul>
 
@@ -35,9 +36,9 @@
 <h2>⬛️ Pictures links list:</h2>
 
 <ul>
-    <li>LOGO: https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4</li>
-    <li>BACKGROUND-IMAGE: https://images.wallpaperscraft.com/image/paint_liquid_bw_131093_3840x2160.jpg</li>
-    <li>TITLE-BACKGROUND-IMAGE: https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png</li>
+    <li>LOGO: https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4</li><br>
+    <li>BACKGROUND-IMAGE: https://images.wallpaperscraft.com/image/paint_liquid_bw_131093_3840x2160.jpg</li><br>
+    <li>TITLE-BACKGROUND-IMAGE: https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png</li><br>
 </ul>
 
 <br>
