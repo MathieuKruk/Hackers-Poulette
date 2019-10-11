@@ -1,4 +1,9 @@
 # 📄 Hackers Poulette
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4" height="50%" width="70%">
+</p>
+
 <br>
 
 <p align="center">◽️ Exercise about creating a complete PHP Form to allow users to contact their support team  ◽️</p>
@@ -36,7 +41,7 @@
 <h2>⬛️ Debut Mockup:</h2>
 
 <p align="center">
-<img src="assets/img/HPmockup.jpg" height="50%" width="30%">
+<img src="assets/img/HPmockup.jpg" height="70%" width="50%">
 </p>
 
 <h2>⬛️ Assets links list:</h2>
@@ -52,11 +57,5 @@
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4" height="50%" width="70%">
-</p>
-
-<p align="center">
 <img src="https://i.giphy.com/media/HUplkVCPY7jTW/giphy.webp" height="50%" width="50%">
 </p>
-
-
