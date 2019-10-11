@@ -31,7 +31,7 @@
 <ul>
     <li>If an answer validate, respond by email to a given address</li><br>
     <li>Implement anti spam the technique of honeypot.</li><br>
-    <li>Work on a good and clear user experience.</li><br>
+    <li>Work on a good and clear user experience.</li>
 </ul>
 
 <br>
@@ -48,7 +48,7 @@
 
 <ul>
     <li>LOGO: https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4</li><br>
-    <li>TITLE-BACKGROUND-IMAGE: https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png</li><br>
+    <li>TITLE-BACKGROUND-IMAGE: https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png</li>
 </ul>
 
 <br>
