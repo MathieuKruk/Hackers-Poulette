@@ -12,6 +12,7 @@
 </ul>
 
 <h2>@)- Still working on:</h2>
+
 <ul>
     <li>If an answer validate, respond by email to a given address</li><br>
     <li>implement anti spam the technique of honeypot.</li><br>
@@ -19,8 +20,11 @@
 </ul>
 
 <h2>@)- Pictures links list:</h2>
+
 <ul>
-  <li>https://www.maxpixel.net/static/photo/2x/Mountain-Peak-Mountain-Winter-Snow-Cold-Jungfrau-3092477.jpg</li>
+    <li>LOGO: https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4</li>
+    <li>BACKGROUND-IMAGE: https://images.wallpaperscraft.com/image/paint_liquid_bw_131093_3840x2160.jpg</li>
+    <li>TITLE-BACKGROUND-IMAGE: https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png</li>
 </ul>
 
 
