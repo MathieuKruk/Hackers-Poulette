@@ -44,6 +44,10 @@
 <img src="assets/img/HPmockup.jpg" height="70%" width="50%">
 </p>
 
+<br>
+<hr>
+<br>
+
 <h2>⬛️ Assets links list:</h2>
 
 <ul>
