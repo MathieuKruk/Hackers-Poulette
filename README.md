@@ -1,4 +1,4 @@
-# 📄 Hackers Poulette 📄
+# 📄 Hackers Poulette
 
 <p align="center">◽️ Exercise about creating a complete PHP Form to allow users to contact their support team  ◽️</p>
 
