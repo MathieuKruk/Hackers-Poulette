@@ -2,7 +2,12 @@
 
 <p align="center">◽️ Exercise about creating a complete PHP Form to allow users to contact their support team  ◽️</p>
 
+<br>
+<hr>
+<br>
+
 <h2>⬛️ The form must contain:</h2>
+
 <ul>
   <li>Inputs that will receive data from the user: Firstname, Lastname, Gender, Country-list and one textarea with 3 possible subjects.</li><br>
   <li>Dev has to process the received answer (sanitize, validate, answer the user).</li><br>
@@ -10,6 +15,10 @@
   <li>Display a readable visual error if empty or not valid inputs.</li><br>
   <li>The form has to be sanitised and validated (server side).</li>
 </ul>
+
+<br>
+<hr>
+<br>
 
 <h2>⬛️ Still working on:</h2>
 
@@ -19,6 +28,10 @@
     <li>work on a good and clear user experience.</li><br>
 </ul>
 
+<br>
+<hr>
+<br>
+
 <h2>⬛️ Pictures links list:</h2>
 
 <ul>
@@ -26,7 +39,6 @@
     <li>BACKGROUND-IMAGE: https://images.wallpaperscraft.com/image/paint_liquid_bw_131093_3840x2160.jpg</li>
     <li>TITLE-BACKGROUND-IMAGE: https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png</li>
 </ul>
-
 
 <br>
 <hr>
