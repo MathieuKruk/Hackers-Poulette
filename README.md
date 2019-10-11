@@ -2,7 +2,7 @@
 
 <p align="center">= 📩 Exercise about creating a complete PHP Form to allow users to contact their support team 📩 =</p>
 
-<h2>@)- The form must contain:</h2>
+<h2>⬛️ The form must contain:</h2>
 <ul>
   <li>Inputs that will receive data from the user: Firstname, Lastname, Gender, Country-list and one textarea with 3 possible subjects.</li><br>
   <li>Dev has to process the received answer (sanitize, validate, answer the user).</li><br>
@@ -11,7 +11,7 @@
   <li>The form has to be sanitised and validated (server side).</li>
 </ul>
 
-<h2>@)- Still working on:</h2>
+<h2>⬛️ Still working on:</h2>
 
 <ul>
     <li>If an answer validate, respond by email to a given address</li><br>
@@ -19,7 +19,7 @@
     <li>work on a good and clear user experience.</li><br>
 </ul>
 
-<h2>@)- Pictures links list:</h2>
+<h2>⬛️ Pictures links list:</h2>
 
 <ul>
     <li>LOGO: https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4</li>
