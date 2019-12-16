@@ -12,8 +12,6 @@
 <hr>
 <br>
 
-ℹ️ Development started on 02/12/2019.
-
 <p align="center">
   <img src="https://imgs.mi9.com/uploads/other/4808/office-still-life-wallpaper_1920x1200_87354.jpg">
 </p>
@@ -24,7 +22,7 @@
 
 ## ◾ Motivation
 
-It has been launch the 02/12/2019 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
+It has been launch the 💠02/12/2019💠 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
 
 Below, you will find our guidelines hosted on the school repo: 
 
