@@ -1,45 +1,112 @@
 # Hackers Poulette 📄
 
+<ul>
+  <li>Real-time chat is a dynamic website application.</li>
+  <li>It provides a secure and anonymous chat service that respects the user privacy.</li>
+</ul>
+
+ℹ️ Development started on 02/12/2019.
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4" height="50%" width="70%">
+  <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9b%2FSocial_Network_Analysis_Visualization.png&sp=faebc9faffea40798896f3bee0603df8&anticache=403882">
 </p>
 
 <br>
+<hr>
+<br>
 
-<p align="center">◽️ Exercise about creating a complete PHP Form to allow users to contact their support team  ◽️</p>
+## ◾ Motivation
+
+It has been launch the 02/12/2019 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
+
+Below, you will find our guidelines hosted on the school repo: 
+
+▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
+
+== Missions objectives
+
+At the end of this challenge you should have improved your:
+
+* *semantical* HTML
+* *accessibility* in HTML
+* progressive enhancement
+* PHP programming
+* project planning
+* mock-up creation
+
+You should also be able to :
+
+* display errors
+
+
+== The mission
+
+The company _Hackers Poulette ™_ sells Raspberry Pi accessory kits to build
+yourself. They want to allow their users to contact their support team. Your
+mission is to develop a *PHP* script *displaying a contact form* and *processing
+the received answer* (sanitize, validate, answer the user).
+
+image::./hackers-poulette-logo.png[Hackers Poulette Logo]
+
+The form should be comprised of:
+
+* name and lastname
+* gender
+* email address
+* country
+* subject (3 possibilities)
+* message
+
+NOTE: All field, except _subject_, have to be completed. The field _subject_
+takes a default value of *others*.
+
+=== Instructions
+
+Must have:
+
+* the project repository must include a mock-up
+* the form *must have* semantical HTML
+* the HTML *must be* accessible to the blinds
+* in case of wrong input return the form with a visual error display
+* display the error message near the correct input field
+* the error message must be readable (helpful to users)
+* the form has to be *sanitised* and *validated* (server side)
+* if an answer validate, respond by email to a given address
+* implement anti spam the technique of {honey}[honeypot]
+
+
+▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
 
 <br>
 <hr>
 <br>
 
-<h2>⬛️ The form must contain:</h2>
+## ◾ Tasks
 
-<ul>
-  <li>Inputs that will receive data from the user: Firstname, Lastname, Gender, Country-list and one textarea with 3 possible subjects.</li><br>
-  <li>Semantical and accessible HTML.</li><br>
-  <li>A redable visual error if empty or invalid input.</li><br>
-  <li>The form has to be sanitised and validated (server side).</li><br>
-  <li>An implemented anti spam technique called HoneyPot.</li>
-</ul>
+- [x] Initialize the ReadMe and the trello.
+- [x] Work on the main project.
+- [ ] Launch the app.
+
+ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
 
 <br>
 <hr>
 <br>
 
-<h2>⬛️ Still working on:</h2>
+## ◾ Build status
 
-<ul>
-    <li>If an answer validate, respond by email to a given address</li><br>
-    <li>Implement anti spam the technique of honeypot.</li><br>
-    <li>Work on a good and clear user experience.</li>
-</ul>
+📲 V1.0.1
+Logs
+   - Readme initialized.
+   - ...
+   - ...
+   - ...
 
 <br>
 <hr>
 <br>
 
-<h2>⬛️ Debut Mockup:</h2>
-
+## ◾ Screenshots
 <p align="center">
 <img src="assets/img/HPmockup.jpg" height="70%" width="50%">
 </p>
@@ -48,17 +115,68 @@
 <hr>
 <br>
 
-<h2>⬛️ Assets links list:</h2>
+### Api architecture
+
+<br>
+<hr>
+<br>
+
+## ◾ Tech/framework used
+
+1. Front-end
+   - [Vue.js](https://vuejs.org/)
+   - [Bootstrap](https://getbootstrap.com/)
+   
+2. Back-end
+   - [Node.js](https://nodejs.org/en/)
+     - [Express.js](https://expressjs.com/)
+     - [Socket.io](https://socket.io/)
+
+<br>
+<hr>
+<br>
+
+## ◾ Features
 
 <ul>
-    <li>LOGO: https://raw.githubusercontent.com/becodeorg/BXL-Johnson-4.14/master/06-PHP/hackers_poulette/hackers-poulette-logo.png?token=AM4ORUE2VVS63IBA25NCSCS5VGZH4</li><br>
-    <li>TITLE-BACKGROUND-IMAGE: https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png</li>
+  <li>Real-time Chatbox</li>
+  <li>Pre-organized channels</li>
+  <li></li>
+  <li></li>
 </ul>
 
 <br>
 <hr>
 <br>
 
-<p align="center">
-<img src="https://i.giphy.com/media/HUplkVCPY7jTW/giphy.webp" height="50%" width="50%">
-</p>
+## ◾ Code Example
+
+```
+function test() {
+  console.log("This is a test for code input?");
+}
+```
+<br>
+<hr>
+<br>
+
+## ◾ Credits
+Team
+   - [Matthieu Duranton](https://github.com/MatthieuDuranton)
+   - [Guillaume Dery](https://github.com/GuillaumeDery98)
+   - [François Thibaut de Maisières](https://github.com/notfrancoistm)
+   - [Mathieu Kruk](https://github.com/MathieuKruk)
+
+<br>
+<hr>
+<br>
+
+## ◾ License
+
+OpenSource | Free
+
+<br>
+<hr>
+<br>
+
+✍️ Readme Author: Mathieu Kruk 
