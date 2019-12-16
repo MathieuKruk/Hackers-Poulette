@@ -8,17 +8,13 @@
   <li>Real time Chat.</li>
 </ul>
 
-<br>
 <hr>
-<br>
 
 <p align="center">
   <img src="https://imgs.mi9.com/uploads/other/4808/office-still-life-wallpaper_1920x1200_87354.jpg">
 </p>
 
-<br>
 <hr>
-<br>
 
 ## ◾ Motivation
 
@@ -94,9 +90,7 @@ Must have:
 
 ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
 
-<br>
 <hr>
-<br>
 
 ## ◾ Build status
 
@@ -107,24 +101,18 @@ Logs
    - ...
    - ...
 
-<br>
 <hr>
-<br>
 
 ## ◾ Screenshots
 <p align="center">
 <img src="assets/img/HPmockup.jpg" height="70%" width="50%">
 </p>
 
-<br>
 <hr>
-<br>
 
 ### Api architecture
 
-<br>
 <hr>
-<br>
 
 ## ◾ Tech/framework used
 
@@ -137,9 +125,7 @@ Logs
      - [Express.js](https://expressjs.com/)
      - [Socket.io](https://socket.io/)
 
-<br>
 <hr>
-<br>
 
 ## ◾ Code Example
 
@@ -148,23 +134,18 @@ function test() {
   console.log("This is a test for code input?");
 }
 ```
-<br>
+
 <hr>
-<br>
 
 ## ◾ Credits
 - [Mathieu Kruk](https://github.com/MathieuKruk)
 
-<br>
 <hr>
-<br>
 
 ## ◾ License
 
 OpenSource | Free
 
-<br>
 <hr>
-<br>
 
 ✍️ Readme Author: Mathieu Kruk 
