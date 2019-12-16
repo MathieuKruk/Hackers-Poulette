@@ -1,8 +1,16 @@
 # Hackers Poulette 📄
 
+## ◾ Features
+
 <ul>
   <li>Hackers Poulette is a dynamic website.</li>
+  <li>Pre-organized channels.</li>
+  <li>Real time Chat.</li>
 </ul>
+
+<br>
+<hr>
+<br>
 
 ℹ️ Development started on 02/12/2019.
 
@@ -130,19 +138,6 @@ Logs
    - [Node.js](https://nodejs.org/en/)
      - [Express.js](https://expressjs.com/)
      - [Socket.io](https://socket.io/)
-
-<br>
-<hr>
-<br>
-
-## ◾ Features
-
-<ul>
-  <li>Real-time Chatbox</li>
-  <li>Pre-organized channels</li>
-  <li></li>
-  <li></li>
-</ul>
 
 <br>
 <hr>
