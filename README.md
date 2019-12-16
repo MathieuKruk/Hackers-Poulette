@@ -8,7 +8,7 @@
 ℹ️ Development started on 02/12/2019.
 
 <p align="center">
-  <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9b%2FSocial_Network_Analysis_Visualization.png&sp=faebc9faffea40798896f3bee0603df8&anticache=403882">
+  <img src="https://imgs.mi9.com/uploads/other/4808/office-still-life-wallpaper_1920x1200_87354.jpg">
 </p>
 
 <br>
