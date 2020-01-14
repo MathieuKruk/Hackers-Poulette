@@ -4,8 +4,7 @@
 
 <ul>
   <li>Hackers Poulette is a dynamic website.</li>
-  <li>Pre-organized channels.</li>
-  <li>Real time Chat.</li>
+  <li>Php Forms.</li>
 </ul>
 
 <hr>
